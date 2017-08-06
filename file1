@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<title></title>
+<body>
+	<h1>Hello Everyone</h1>
+	<p id="test"></p>
+
+	<script>
+		document.getElementById("test").innerHTML = 5 + 4 + 13;
+	</script>
+</body>
+</html>
